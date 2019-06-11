@@ -50,6 +50,3 @@ const solution = (arr, k)=>{
 	console.log(finalarray);
 	return finalarray
 };
-
-solution( [5, 1000,300],15);
-
